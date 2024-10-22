@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CaLcUlAtO</string>
+    <string name="result_text">%.2f %s</string>
+</resources>
